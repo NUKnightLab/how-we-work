@@ -8,4 +8,4 @@ Please only put things here suitable for public consumption. The general focus i
 
 ## Documentation
 
- * Our [Coding Conventions](https://github.com/NUKnightLab/tools-and-techniques/wiki/Coding-conventions)
+ * Our [Coding Standards](https://github.com/NUKnightLab/tools-and-techniques/wiki/Coding-standards)
