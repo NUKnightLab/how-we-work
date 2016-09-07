@@ -2,28 +2,27 @@
 
 To the extent possible, we prefer to allow developers to use the tools they prefer. Nothing is more personal of a choice in the developer's toolbox than the choice of editor or IDE.
 
-The info here is full of anectdote and opinion. Navigate these waters at your own risk. The best
-thing you can do is to try on a few different editors for size and see what fits your style.
+![Real Programmers](https://imgs.xkcd.com/comics/real_programmers.png)
+
+The info here is full of anecdote and opinion. Navigate these waters at your own risk. The best thing you can do is to try different editors and see what fits your style.
 
 ## The shortlist
 
 ### Text editors
 
- * emacs
- * Sublime
- * vi/vim
- * Text Wrangler
- * Zed
+ * [Sublime](https://www.sublimetext.com/3)
+ * [Atom](https://atom.io/)
+ * [vi/vim](http://www.vim.org/download.php)
+ * [emacs](https://www.gnu.org/software/emacs/download.html)
 
 ### IDEs
 
- * Eclipse
+ * [Eclipse](https://eclipse.org/downloads/)
 
 ### Editing tools
 
- * Codepen
- * JSFiddle
-
-
+ * [Codepen](http://codepen.io)
+ * [JSBin](http://jsbin.com)
+ * [JSFiddle](https://jsfiddle.net)
 
 ## What to look for in an editor or IDE
