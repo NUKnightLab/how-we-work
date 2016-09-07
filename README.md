@@ -9,3 +9,8 @@ Please only put things here suitable for public consumption. The general focus i
 ## Documentation
 
  * Our [Coding Standards](https://github.com/NUKnightLab/tools-and-techniques/wiki/Coding-standards)
+ * Our [Design Style Guide](https://purpleline.knightlab.com/)
+
+## Resources
+
+ * Some useful [Coding Patterns](https://github.com/NUKnightLab/tools-and-techniques/tree/master/patterns)
