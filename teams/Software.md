@@ -19,7 +19,7 @@ See below for details:
  
  Please provide a weekly report of actual times for each item above. Itemize bugs by Github issue number
 
- ### Zendesk tickets
+### Zendesk tickets
  
    2 hours/week
    
