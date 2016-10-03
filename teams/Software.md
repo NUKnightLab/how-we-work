@@ -52,7 +52,7 @@ See below for details:
    
 ### Github bugs
  
-   Remaining hours (will reduce in near future)
+   Remaining hours (will give way to enhancement development in near future)
    
    - Select a bug from the priority projects
    - Assign the bug to yourself
