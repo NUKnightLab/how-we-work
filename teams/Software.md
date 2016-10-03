@@ -52,7 +52,7 @@
    
 ### Github bugs
  
-   Remaining hours (will give way to enhancement development in near future)
+Remaining hours (will give way to enhancement development in near future)
    
    - Select a bug from the priority projects
    - Assign the bug to yourself
@@ -60,7 +60,13 @@
      * Keep PRs short
      * Submit to an appropriate staff member and another student on the team
      * Larger bugs might take some work and more than one PR
-     
+
+### TBD
+
+Things that will get added to this list:
+
+  * Documentation
+  * Enhancements
      
 ## Managing Zendesk
 
