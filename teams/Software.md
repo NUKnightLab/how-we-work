@@ -70,6 +70,7 @@ Things that will get added to this list:
 
   * Documentation
   * Enhancements
+  * Testing
      
 ## Managing Zendesk
 
