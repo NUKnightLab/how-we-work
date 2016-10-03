@@ -25,7 +25,6 @@ See below for details:
    
    - **Handle tickets that you previously fielded** and are currently open. Try to get your open tickets to a closed or pending state (see "Managing Zendesk" below for more info on Zendesk statuses)
    - **Take on responsibility for new tickets** by replying to users in Zendesk, creating Github issues as appropriate. Tickets you field should be replied to as either _Pending_ or _Solved_
-   - Expect to spend about 2 hours per week handling Zendesk tickets
    
 ### Zendesk backlog
  
