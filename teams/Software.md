@@ -8,14 +8,14 @@
   * [Soundcite](https://github.com/NUKnightLab/soundcite)
   
 ## Shift priorities
-
-See below for details:
  
   * Zendesk tickets (2 hours/week)
   * Zendesk backlog (~1 hour/week)
   * Github tagging (~20 min/week)
   * Github PR code reviews (~1 hr/week)
   * Github bugs (remaining time)
+  
+ See below for details
  
  Please provide a weekly report of actual times for each item above. Itemize bugs by Github issue number
 
