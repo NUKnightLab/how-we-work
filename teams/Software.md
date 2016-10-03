@@ -15,9 +15,9 @@
   * Github PR code reviews (~1 hr/week)
   * Github bugs (remaining time)
   
- See below for details of these items.
+See below for details of these items.
  
- Times are generally guidelines, but please provide a weekly report with:
+Times are generally guidelines, but please provide a weekly report with:
  
   * deviations if your times differ significantly from the guidelines
   * "Github bugs" effort itemized by Github issue number
