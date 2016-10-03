@@ -19,7 +19,7 @@ See below for details:
  
  Please provide a weekly report of actual times for each item above. Itemize bugs by Github issue number
 
- * **Zendesk tickets**
+ ### Zendesk tickets
  
    2 hours/week
    
@@ -27,14 +27,14 @@ See below for details:
    - **Take on responsibility for new tickets** by replying to users in Zendesk, creating Github issues as appropriate. Tickets you field should be replied to as either _Pending_ or _Solved_
    - Expect to spend about 2 hours per week handling Zendesk tickets
    
- * **Zendesk backlog**
+### Zendesk backlog
  
    1 hour/week (until we have no backlog)
    
    - **Work on backlog** by finding old tickets (>1 week old) that are not signed by a team member
    - **Take responsibility** for the old ticket and handle it as you would a new ticket, getting it into _Solved_ or _Pending_ status
    
- * **Github tagging**
+### Github tagging
  
    20 minutes/week
    
@@ -43,7 +43,7 @@ See below for details:
      * Enhancement
      * Question
 
- * **Github pull request code review**
+### Github pull request code review
  
    1 hour/week
    
@@ -51,7 +51,7 @@ See below for details:
    - Review PRs from public. Comment with change requests or approval. Upon approval, tag a staff member in your comment
    - Tagged staff members will merge PRs for now
    
- * **Github bugs**
+### Github bugs
  
    Remaining hours (will reduce in near future)
    
