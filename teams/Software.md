@@ -37,7 +37,7 @@
  
    20 minutes/week
    
-   - Tag new public issues in priority projects by finding newly created issues that are not yet tagged. All issues should be tagged one of:
+   - **Tag new public issues** in priority projects by finding newly created issues that are not yet tagged. All issues should be tagged one of:
      * Bug
      * Enhancement
      * Question
@@ -46,8 +46,8 @@
  
    1 hour/week
    
-   - Review any PRs from other team members (see _Github bugs_ below). Comment with change requests or approval
-   - Review PRs from public. Comment with change requests or approval. Upon approval, tag a staff member in your comment
+   - **Review PRs from other team members** (see _Github bugs_ below). Comment with change requests or approval
+   - **Review PRs from public**. Comment with change requests or approval. Upon approval, tag a staff member in your comment
    - Tagged staff members will merge PRs for now
    
 ### Github bugs
@@ -55,7 +55,7 @@
 Remaining hours (will give way to enhancement development in near future)
    
    - Select a bug from the priority projects
-   - Assign the bug to yourself
+   - Assign the bug to yourself in Github
    - Submit a Pull Request for code review
      * Keep PRs short
      * Submit to an appropriate staff member and another student on the team
