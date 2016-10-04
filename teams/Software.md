@@ -93,7 +93,7 @@ If a ticket requires code changes to be resolved, it should be turned into a git
 
   * give new issue an appropriate flag (bug, enhancement, or question)
   * the issue should refer to the Zendesk ticket number
-  * reference the issue with a link in a response to the ticket requester for future tracking/reference
+  * reference the new Github issue via a link in a response to the ticket requester
   * close the Zendesk ticket as solved
 
 ## Team Roadmap/TODO
