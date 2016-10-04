@@ -73,7 +73,7 @@ Remaining hours (will give way to enhancement development in near future)
 Things that will get added to this list:
 
   * Documentation
-  * Enhancements
+  * Enhancements/Feature development
   * Testing
      
 ## Managing Zendesk
