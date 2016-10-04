@@ -2,7 +2,7 @@
 
 ## Mission statement
 
-For the KnightLab's public-facing and open-source projects, define, prioritize, implement, and maintain the software as well as the processes and procedures for software development and open-source contributions, with an eye toward establishing the lab as a community example of open-source and general software development practices.
+For Knight Lab's public-facing and open-source projects, define, prioritize, implement, and maintain the software as well as the processes and procedures for software development and open-source contributions, with an eye toward establishing the lab as a community example of open-source and general software development practices.
 
 ## Priority projects
 
