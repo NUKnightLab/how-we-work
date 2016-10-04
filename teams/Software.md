@@ -1,5 +1,9 @@
 # Software Team
 
+## Mission statement
+
+For the KnightLab's public-facing and open-source projects, define, prioritize, implement, and maintain the software as well as the processes and procedures for software development and open-source contributions, with an eye toward establishing the lab as a community example of open-source and general software development practices.
+
 ## Priority projects
 
   * [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3)
@@ -11,7 +15,7 @@
  
   * Zendesk tickets (2 hours/week)
   * Zendesk backlog (~1 hour/week)
-  * Github tagging (~20 min/week)
+  * Github issue labeling (~20 min/week)
   * Github PR code reviews (~1 hr/week)
   * Github bugs (remaining time)
   
@@ -36,11 +40,11 @@ Times are generally guidelines, but please provide a weekly report with:
    - **Work on backlog** by finding old tickets (>1 week old) that are not signed by a team member
    - **Take responsibility** for the old ticket and handle it as you would a new ticket, getting it into _Solved_ or _Pending_ status
    
-### Github tagging
+### Github issue labeling
  
    20 minutes/week
    
-   - **Tag new public issues** in priority projects by finding newly created issues that are not yet tagged. All issues should be tagged one of:
+   - **Tag new public issues** in priority projects by finding newly created issues that are not yet labeled. All issues should be labeled one of:
      * Bug
      * Enhancement
      * Question
@@ -91,3 +95,17 @@ If a ticket requires code changes to be resolved, it should be turned into a git
   * the issue should refer to the Zendesk ticket number
   * reference the issue with a link in a response to the ticket requester for future tracking/reference
   * close the Zendesk ticket as solved
+
+## Team Roadmap/TODO
+
+  * Get Zendesk backlog tackled
+  * Squash bugs in the 4 priority projects
+  * Begin working on feature development/enhancements
+  * Add Changelogs to projects
+  * Improve documentation, particularly around setting up for local development and making contributions
+  * Improve deployment documentation (process of staging to CDN, deploying CDN, deploying website)
+  * Add/improve testing for all projects
+  * Automate CDN Index page version presentation
+  * Convert projects to buildkit where appropriate
+  * Spec and implement a "language contributions" tool for projects with I18N
+  
