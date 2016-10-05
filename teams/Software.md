@@ -98,7 +98,7 @@ If a ticket requires code changes to be resolved, it should be turned into a git
 
 ## Tools
 
-  * [Microsoft web dev tools](https://developer.microsoft.com/en-us/microsoft-edge/tools/) for testing on different versions of IE/Edge
+  * [Microsoft web dev tools](https://developer.microsoft.com/en-us/microsoft-edge/tools/) for testing on different versions of IE/Edge. I've had better luck with [modern-ie-vagrant](http://tech.dealer.com/want-a-new-way-to-test-ie-browsers-try-modern-ie-vagrant/) than trying to use Microsoft's Vagrant boxes directly
   
 ## Team Roadmap/TODO
 
