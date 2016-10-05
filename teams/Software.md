@@ -96,6 +96,10 @@ If a ticket requires code changes to be resolved, it should be turned into a git
   * reference the new Github issue via a link in a response to the ticket requester in Zendesk
   * submit this note to the requester as solved in Zendesk
 
+## Tools
+
+  * [Microsoft web dev tools](https://developer.microsoft.com/en-us/microsoft-edge/tools/) for testing on different versions of IE/Edge
+  
 ## Team Roadmap/TODO
 
   * Get Zendesk backlog tackled
