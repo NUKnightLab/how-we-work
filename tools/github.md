@@ -14,7 +14,7 @@ Github is an online repository for hosting projects that are version controlled 
 ## So, which do I use?
 Both! Git runs locally on your machine and you commit changes to your project as you go. Github is the online repository that you "push" your code to and from which you "pull" in changes made to the codebase.
 
-## Using Github
+## Using Git/Github
 
 ### Step 0: Create an account
 If you haven't already, create an account on [github](https://github.com/). Be sure to choose a username that is readable and easily identifiable since your github username will be used on projects and contributions.
@@ -25,7 +25,7 @@ A repository is what github calls a place where your project will live and can c
 1. In the upper right hand corner of your page, click on the + button next to your avatar and select `New Repository`
 2. Name the repo, something like `example-project` works, add a description (this is optional) and click the green button `Create Repository`.
 
-### Step 2: Set up git on your local machi
+### Step 2: Set up git on your local machine
 As described earlier, github is an online hub for open source code. Github uses Git, which is a version control system that allows you to manage the history of your contributions to a project.
 Github is therefore a webpage where you can publish and view your git repositories.
 
@@ -68,7 +68,7 @@ This will look something like this `git remote add origin https://github.com/NUK
 Type in `git push -u origin master` to push your local git repo to remote.
 Congrats on your first git commit!!! 🎉 
 
-## Useful github commands to know 
+## Useful git commands to know
 `git status`
 Lists all modified or new files in your git repository.
 
@@ -87,4 +87,4 @@ Switches to another branch.
 `git log`
 Shows your commit history for a given branch in your repository.
 
-For more git commands, check out the [github cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+For more git commands, check out the [git cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
