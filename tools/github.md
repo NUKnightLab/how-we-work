@@ -1,12 +1,18 @@
 # Navigating Github 
 
-As developers, we rarely work in isolation. Oftentimes, we work on teams both small and large. Even when we don't, we rely on libraries, tools and frameworks for the code that we write. The goal is to  
+Two challenges developers face are keeping track of code changes and collaborating with other developers. In programming, we have a concept called version control that addresses these two challenges. Not only does version control make it easy to keep track of changes, it also enables other developers to work off the same codebase in real time, thereby encouraging collaboration. 
 
-## What is Github?
+## Enter Git
+Git is a distributed version control system—which means you can use it offline. Git keeps track of your revisions through "commits". Instead of renaming and accumulating multiple file versions, git allows you to track a file's history by "committing" them to git. These commits make up a project's history and have meta information like date, time and message associated with a commit. This is useful so that you can view the trajectory of your project and revert or "roll back" changes.
+
+## Wait, so what's Github?
   > GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-  - Github
+  --<cite>Github</cite>
 
-  In essence, github is a way to manage your code projects and enables you to work with other developers seamlessly.
+Github is an online repository for hosting projects that are version controlled with git.
+
+## So, which do I use?
+Both! Git runs locally on your machine and you commit changes to your project as you go. Github is the online repository that you "push" your code to and from which you "pull" in changes made to the codebase.
 
 ## Using Github
 
@@ -19,7 +25,7 @@ A repository is what github calls a place where your project will live and can c
 1. In the upper right hand corner of your page, click on the + button next to your avatar and select `New Repository`
 2. Name the repo, something like `example-project` works, add a description (this is optional) and click the green button `Create Repository`.
 
-### Step 2: Set up git on your local machine
+### Step 2: Set up git on your local machi
 As described earlier, github is an online hub for open source code. Github uses Git, which is a version control system that allows you to manage the history of your contributions to a project.
 Github is therefore a webpage where you can publish and view your git repositories.
 
