@@ -23,8 +23,6 @@ For Knight Lab's public-facing and open-source projects, define, prioritize, imp
 See below for details of these items.
  
 ### Zendesk tickets
- 
-   2 hours/week
    
    - **Handle tickets that you previously fielded** and are currently open. Try to get your open tickets to a closed or pending state (see "Managing Zendesk" below for more info on Zendesk statuses)
    - **Take on responsibility for new tickets** by replying to users in Zendesk, creating Github issues as appropriate. Tickets you field should be replied to as either _Pending_ or _Solved_. In general, try to prioritize New tickets by oldest first.
