@@ -13,19 +13,15 @@ For Knight Lab's public-facing and open-source projects, define, prioritize, imp
   
 ## Shift priorities
  
-  * Zendesk tickets (2 hours/week)
-  * Zendesk backlog (~1 hour/week)
-  * Github issue labeling (~20 min/week)
-  * Github PR code reviews (~1 hr/week)
-  * Github bugs (remaining time)
+  * Zendesk tickets
+  * Zendesk backlog
+  * Github issue labeling
+  * Github PR code reviews
+  * Github bugs and questions
+  * Special tasks and development
   
 See below for details of these items.
  
-Times are generally guidelines, but please provide a weekly report with:
- 
-  * deviations if your times differ significantly from the guidelines
-  * "Github bugs" effort itemized by Github issue number
-
 ### Zendesk tickets
  
    2 hours/week
@@ -34,15 +30,11 @@ Times are generally guidelines, but please provide a weekly report with:
    - **Take on responsibility for new tickets** by replying to users in Zendesk, creating Github issues as appropriate. Tickets you field should be replied to as either _Pending_ or _Solved_. In general, try to prioritize New tickets by oldest first.
    
 ### Zendesk backlog
- 
-   1 hour/week (until we have no backlog)
    
    - **Work on backlog** by finding old tickets (>1 week old) that are not signed by a team member
    - **Take responsibility** for the old ticket and handle it as you would a new ticket, getting it into _Solved_ or _Pending_ status
    
 ### Github issue labeling
- 
-   20 minutes/week
    
    - **Tag new public issues** in priority projects by finding newly created issues that are not yet labeled. All issues should be labeled one of:
      * Bug
@@ -50,16 +42,12 @@ Times are generally guidelines, but please provide a weekly report with:
      * Question
 
 ### Github pull request code review
- 
-   1 hour/week
    
    - **Review PRs from other team members** (see _Github bugs_ below). Comment with change requests or approval
    - **Review PRs from public**. Comment with change requests or approval. Upon approval, tag a staff member in your comment
    - Tagged staff members will merge PRs for now
    
-### Github bugs
- 
-Remaining hours (will give way to enhancement development in near future)
+### Github bugs and questions
    
    - Select a bug from the priority projects
    - Assign the bug to yourself in Github
@@ -68,13 +56,16 @@ Remaining hours (will give way to enhancement development in near future)
      * Submit to an appropriate staff member and another student on the team
      * Larger bugs might take some work and more than one PR
 
-### TBD
+### Special tasks and development
 
-Things that will get added to this list:
+Hopefully, this is where the bulk of your time will be spent. We need to stay on top of all of the above things, but in as far as help tickets, bugs, questions, and PRs are staying under control, remaining time will be spend in ongoing special projects with specific goals in mind. These will be defined in an ongoing manner and will include:
 
+  * Zendesk and general support organization and maintenance for improved support efficiency
   * Documentation
   * Enhancements/Feature development
   * Testing
+  * General improvements conducive to collaboration and contribution
+  * Community development around our projects
      
 ## Managing Zendesk
 
@@ -105,12 +96,12 @@ If a ticket requires code changes to be resolved, it should be turned into a git
 
   * Get Zendesk backlog tackled
   * Squash bugs in the 4 priority projects
+  * Improve our project build processes (convert to buildkit)
   * Begin working on feature development/enhancements
   * Add Changelogs to projects
   * Improve documentation, particularly around setting up for local development and making contributions
   * Improve deployment documentation (process of staging to CDN, deploying CDN, deploying website)
   * Add/improve testing for all projects
   * Automate CDN Index page version presentation
-  * Convert projects to buildkit where appropriate
   * Spec and implement a "language contributions" tool for projects with I18N
   
