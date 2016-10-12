@@ -80,7 +80,7 @@ Ticket statuses are:
 
 If a ticket requires code changes to be resolved, it should be turned into a github issue:
 
-  * give new Github issue a flag (bug, enhancement, or question)
+  * give new Github issue a flag (bug, enhancement, or question) Note: **Do not link to customer content in the Github issue without permission to do so**
   * reference the Zendesk ticket number in the new Github issue
   * reference the new Github issue via a link in a response to the ticket requester in Zendesk
   * submit this note to the requester as solved in Zendesk
