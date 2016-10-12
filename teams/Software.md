@@ -14,7 +14,6 @@ For Knight Lab's public-facing and open-source projects, define, prioritize, imp
 ## Shift priorities
  
   * Zendesk tickets
-  * Zendesk backlog
   * Github issue labeling
   * Github PR code reviews
   * Github bugs and questions
@@ -27,17 +26,12 @@ See below for details of these items.
    - **Handle tickets that you previously fielded** and are currently open. Try to get your open tickets to a closed or pending state (see "Managing Zendesk" below for more info on Zendesk statuses)
    - **Take on responsibility for new tickets** by replying to users in Zendesk, creating Github issues as appropriate. Tickets you field should be replied to as either _Pending_ or _Solved_. In general, try to prioritize New tickets by oldest first.
    
-### Zendesk backlog
-   
-   - **Work on backlog** by finding old tickets (>1 week old) that are not signed by a team member
-   - **Take responsibility** for the old ticket and handle it as you would a new ticket, getting it into _Solved_ or _Pending_ status
-   
 ### Github issue labeling
    
    - **Tag new public issues** in priority projects by finding newly created issues that are not yet labeled. All issues should be labeled one of:
      * Bug
      * Enhancement
-     * Question
+     * Question (for internal questions, assign the person you want to answer the question)
 
 ### Github pull request code review
    
