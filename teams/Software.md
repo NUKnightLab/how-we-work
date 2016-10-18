@@ -90,6 +90,17 @@ Since we manage projects over several repositories, you will want to develop a s
   
 The last 2 items (questions and bugs) will probably be focused within one or two repositories (e.g. you will normally only tackle a single bug at a time), but for the overall list, be sure to check through all repositories where you might have relevant outstanding issues.
 
+## Troubleshooting and tips
+
+### StoryMap
+
+It is often helpful to import a user's storymap into your own account for troubleshooting. To import, get the StoryMap share link from the user, and go to this endpoint: http://storymap.knightlab.com/select.html?import_url=[STORYMAP URL]
+
+There is a `userinfo` endpoint that can be useful while troubleshooting some problems. You can have the user go to this endpoint and copy the information to send you: https://storymap.knightlab.com/userinfo/. Information includes:
+  * user agent (i.e. user's browser)
+  * user id (uid). This is the key by which the user's media is organized in s3
+  * user record. User metadata that is stored in Mongo. It includes references to their maps, and some Google account info
+  
 ## Tools and resources
 
   * The Knight Lab [Zendesk help center](https://knightlab.zendesk.com/hc/en-us)
