@@ -88,7 +88,7 @@ Since we manage projects over several repositories, you will want to develop a s
   * Issues: Labels > Questions (answer questions and close them out)
   * Issues: Labels > Bugs (take on Bugs and assign them to yourself)
   
-The last 2 items (questions and bugs) will probably be focused within one or two repositories (e.g. you will normally only tackle a single bug at a time), but for the overall list, be sure to check through all repositories where you might have relevant issues.
+The last 2 items (questions and bugs) will probably be focused within one or two repositories (e.g. you will normally only tackle a single bug at a time), but for the overall list, be sure to check through all repositories where you might have relevant outstanding issues.
 
 ## Tools and resources
 
