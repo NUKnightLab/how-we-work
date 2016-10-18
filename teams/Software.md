@@ -78,6 +78,17 @@ If a ticket requires code changes to be resolved, it should be turned into a git
   * reference the Zendesk ticket number in the new Github issue
   * reference the new Github issue via a link in a response to the ticket requester in Zendesk
   * submit this note to the requester as solved in Zendesk
+  
+## Suggested Github workflow
+
+Since we manage projects over several repositories, you will want to develop a systematic approach to prioritizing issues and your related tasks. It is recommended that you check each relevant repository (see priority projects list above) succesively for each priority item in this list:
+
+  * Issues: Filter by `Everything assigned to you` (work on closing these out)
+  * Issues: Fiter by `Everything mentioning you` (e.g. code reviews of PRs from your peers)
+  * Issues: Labels > Questions (answer questions and close them out)
+  * Issues: Labels > Bugs (take on Bugs and assign them to yourself)
+  
+The last 2 items (questions and bugs) will probably be focused within one or two repositories (e.g. you will normally only tackle a single bug at a time), but for the overall list, be sure to check through all repositories where you might have relevant issues.
 
 ## Tools and resources
 
