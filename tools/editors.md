@@ -27,4 +27,4 @@ The info here is full of anecdote and opinion. Navigate these waters at your own
 
 ## Recommended reading
 
- * _The Pragmatic Programmer_, Andrew Hunt & David Thomas, 2000 Addison Wesley Longman. *Chapter 3: Power Editing*
+ * _The Pragmatic Programmer_, Andrew Hunt & David Thomas, 2000 Addison Wesley Longman. **Chapter 3: Power Editing**
