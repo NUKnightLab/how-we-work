@@ -25,4 +25,6 @@ The info here is full of anecdote and opinion. Navigate these waters at your own
  * [JSBin](http://jsbin.com)
  * [JSFiddle](https://jsfiddle.net)
 
-## What to look for in an editor or IDE
+## Recommended reading
+
+ * _The Pragmatic Programmer_, Andrew Hunt & David Thomas, 2000 Addison Wesley Longman. *Chapter 3: Power Editing*
