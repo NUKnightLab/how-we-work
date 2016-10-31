@@ -26,7 +26,7 @@ You will use GitHub for checking in iterations of your project. If you don't hav
 
 ## Documentation
 
- * Our [Coding Standards](https://github.com/NUKnightLab/tools-and-techniques/wiki/Coding-standards)
+ * Our [Coding Standards](https://github.com/NUKnightLab/how-we-work/tree/master/standards)
  * Our [Design Style Guide](https://purpleline.knightlab.com/)
 
 ## Teams
