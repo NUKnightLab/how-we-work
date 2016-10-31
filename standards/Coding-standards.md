@@ -37,8 +37,8 @@ A quick summary of our code style for the impatient
 
 ## Language-specific guidelines
 
- * [Python](https://github.com/NUKnightLab/how-we-work/blob/master/standards/Coding-standards:-Python)
- * [Javascript](https://github.com/NUKnightLab/how-we-work/blob/master/standards/Coding-standards:-Javascript)
+ * [Python](https://github.com/NUKnightLab/how-we-work/blob/master/standards/Coding-standards:-Python.md)
+ * [Javascript](https://github.com/NUKnightLab/how-we-work/blob/master/standards/Coding-standards:-Javascript.md)
 
 ## Categories of concern
 
