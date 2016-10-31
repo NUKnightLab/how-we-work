@@ -1,4 +1,4 @@
-# KnightLab Coding Standards
+# Knight Lab Coding Standards
 
 ## Contents
 
