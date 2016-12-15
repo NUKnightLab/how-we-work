@@ -25,7 +25,9 @@ See below for details of these items.
    
    - **Handle tickets that you previously fielded** and are currently open. Try to get your open tickets to a closed or pending state (see "Managing Zendesk" below for more info on Zendesk statuses)
    - **Take on responsibility for new tickets** by replying to users in Zendesk, creating Github issues as appropriate. Tickets you field should be replied to as either _Pending_ or _Solved_. In general, try to prioritize New tickets by oldest first.
-   
+   - **Clear pendings**. In general, if a user has not responded to a pending request in a month, marked it as solved.
+   - **Use tags.** Mark tickets with tags as appropriate. We are currently tracking: `http-https` `accessibility`
+
 ### Github issue labeling
    
    - **Tag new public issues** in priority projects by finding newly created issues that are not yet labeled. All issues should be labeled one of:
